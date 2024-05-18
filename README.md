@@ -20,4 +20,4 @@
 
 ## Maintainer Md. Al-Amin
 
-### Email: amin252646@gmail.com This repository overview provides a brief summary of the ERPNext MariaDB Docker repository, including its purpose, contents, usage instructions, features, contribution guidelines, license, and maintainer details. Feel free to customize it further as needed.
+Email: amin252646@gmail.com This repository overview provides a brief summary of the ERPNext MariaDB Docker repository, including its purpose, contents, usage instructions, features, contribution guidelines, license, and maintainer details. Feel free to customize it further as needed.
