@@ -11,7 +11,7 @@ basedir = /usr
 datadir = /var/lib/mysql
 tmpdir = /tmp
 lc-messages-dir = /usr/share/mysql
-bind-address = 127.0.0.1
+bind-address = 0.0.0.0
 query_cache_size = 16M
 log_error = /var/log/mysql/error.log
 # this is only for the mysqld standalone daemon
@@ -33,7 +33,6 @@ basedir                 = /usr
 
 # Instead of skip-networking the default is now to listen only on
 # localhost which is more compatible and is not less secure.
-bind-address            = 127.0.0.1
 
 #
 # * Fine Tuning
