@@ -1,8 +1,8 @@
 # ERPNext MariaDB Docker
 
-### Description The ERPNext MariaDB Docker repository provides a Docker image tailored for managing ERPNext sites' databases. It offers a streamlined solution for deploying the database component of ERPNext.
+The ERPNext MariaDB Docker repository provides a Docker image tailored for managing ERPNext sites' databases. It offers a streamlined solution for deploying the database component of ERPNext.
 
-### Contents Dockerfile: Defines the instructions for building the ERPNext MariaDB Docker image. README.md: Contains detailed information on how to use the Docker image and other important instructions. LICENSE: Specifies the license under which the repository is distributed.
+Contents Dockerfile: Defines the instructions for building the ERPNext MariaDB Docker image. README.md: Contains detailed information on how to use the Docker image and other important instructions.
 
 ## Usage
 
@@ -14,9 +14,9 @@
 
     docker exec -it erpnext-mariadb-container mysql -u root -p 
 
-### Features Provides a ready-to-use Docker image for MariaDB, specifically tailored for ERPNext. Offers versioning for easy tracking of updates and changes. Simplifies deployment and management of ERPNext databases. Contribution Guidelines Contributions to the ERPNext MariaDB Docker repository are welcome. Please follow these guidelines when contributing:
+Features Provides a ready-to-use Docker image for MariaDB, specifically tailored for ERPNext. Offers versioning for easy tracking of updates and changes. Simplifies deployment and management of ERPNext databases. Contribution Guidelines Contributions to the ERPNext MariaDB Docker repository are welcome. Please follow these guidelines when contributing:
 
-### Fork the repository and create a new branch for your changes. Ensure that your code adheres to the coding standards. Submit a pull request with a clear description of your changes. License This repository is licensed under the MIT License.
+Fork the repository and create a new branch for your changes. Ensure that your code adheres to the coding standards. Submit a pull request with a clear description of your changes. License This repository is licensed under the MIT License.
 
 ## Maintainer Md. Al-Amin
 
